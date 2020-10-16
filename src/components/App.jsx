@@ -21,3 +21,5 @@ function App() {
 }
 
 export default App;
+
+// Need to use hook useState() function to change the style
